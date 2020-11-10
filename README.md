@@ -1,1 +1,3 @@
 # myReduxPlayground
+
+npm install redux
